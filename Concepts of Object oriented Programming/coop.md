@@ -8,6 +8,8 @@
     - [Requirements](#requirements)
     - [Core Concepts](#core-concepts)
       - [1: The Object Model](#1-the-object-model)
+      - [2: Interfaces and Encapsulation](#2-interfaces-and-encapsulation)
+      - [3: Classification and Polymorphism](#3-classification-and-polymorphism)
   - [Typing](#typing)
   - [Inheritance](#inheritance)
 
@@ -20,7 +22,7 @@ Every OOP language is (or should be) developed with the aim of solving a set of 
 ### Core Concepts
 
 #### 1: The Object Model
-In every OOP language, **a software system is a set of cooperating objects**, which **exchange messages**. In the figure below, two objects `obj1`and `obj2` can be seen exchanging a message, in the form of a *function call*.
+In every OOP language, **a software system is a set of cooperating objects**, which **exchange messages**. In the figure below, two objects `obj1`and `obj2` can be seen exchanging a message, in the form of a *method call*.
 Every object has:
 - State
 - Identity
@@ -30,12 +32,18 @@ Every object has:
 
 ![Objects interaction](<images/Screenshot 2023-10-13 at 15.10.45.png>)
 
+#### 2: Interfaces and Encapsulation
+Each object has a well-defined interface, which describes its **ublicly accessible fields and methods**. The process of hiding the implementation behind the object's interface is called **encapsulation**.
+
+#### 3: Classification and Polymorphism
+
+
 ## Typing
 
 
 ## Inheritance
 
-aa
+<!-- aa
 <table><tr>
 <th>Json 1</th>
 <th>Markdown</th>
@@ -59,4 +67,4 @@ aa
   "order_id": "f7177da"
 }
 ```
-</td></tr></table>
+</td></tr></table> -->
