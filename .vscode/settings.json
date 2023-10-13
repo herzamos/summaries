@@ -1,0 +1,9 @@
+{
+    "grammarly.selectors": [
+        {
+            "language": "markdown",
+            "scheme": "file",
+            "pattern": "Concepts of Object oriented Programming/coop.md"
+        }
+    ]
+}

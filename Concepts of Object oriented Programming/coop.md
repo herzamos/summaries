@@ -36,7 +36,7 @@ Every object has:
 Each object has a well-defined interface, which describes its **ublicly accessible fields and methods**. The process of hiding the implementation behind the object's interface is called **encapsulation**.
 
 #### 3: Classification and Polymorphism
-
+We call **classification** the process of hierarcicarly structuring objects
 
 ## Typing
 
